@@ -90,4 +90,4 @@ cd 24001118-synrgy7-jmd-bcr-ch5
       
 ## ERD (Entity Relationship Diagram)
 
-![Image](https://res.cloudinary.com/dsozzm34s/image/upload/v1716114632/ch-5-challenge/Practice_Challenge_5_1_wtdcmx.png)
+![Image](https://res.cloudinary.com/dsozzm34s/image/upload/v1716118004/ch-5-challenge/Entity%20Relationship%20Diagram_Challenge%205.png)
